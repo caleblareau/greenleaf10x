@@ -9,3 +9,4 @@
 
 ### From 10X Website
 [CD34](https://rawgit.com/caleblareau/greenleaf10x/master/QC_Reports/cd34_10X.html)
+[Monocytes](https://rawgit.com/caleblareau/greenleaf10x/master/QC_Reports/mono_10X.html)
